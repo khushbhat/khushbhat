@@ -1,6 +1,6 @@
 <h1 align="left">Hi, I'm Khushi <img src="https://em-content.zobj.net/source/apple/391/waving-hand_1f44b.png" width="28" /></h1>
 
-**Information Science engineer · cloud & observability · applied ML · community builder**
+**Information Science engineer · cloud & observability · applied ML · leadership**
 B.E. ISE @ Ramaiah Institute of Technology, Bengaluru — CGPA 9.46
 
 <p>
